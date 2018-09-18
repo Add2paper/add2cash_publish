@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Add2Cash.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Add2Cash" version="1.3.6.19877" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Add2Cash" version="1.3.6.22736" language="neutral" processorArchitecture="x86" />
     <commandLine file="Add2Cash.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,7 +44,7 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Cash.exe" size="413184">
-      <assemblyIdentity name="Add2Cash" version="1.3.6.19877" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Add2Cash" version="1.3.6.22736" language="neutral" processorArchitecture="x86" />
     </dependentAssembly>
   </dependency>
   <dependency>
